@@ -1,1 +1,2 @@
-Some new message
+
+New message for the word doc
